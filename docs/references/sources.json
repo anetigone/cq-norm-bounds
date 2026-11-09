@@ -1,0 +1,5 @@
+{
+  "truth": "https://github.com/fdbresearch/LpBound/blob/main/results/accuracy_acyclic/joblight/truecardinality_joblight_full_estimations.csv",
+  "estimates": "https://github.com/fdbresearch/LpBound/blob/main/results/accuracy_acyclic/joblight/lpbound_joblight_full_estimations.csv",
+  "note": "Author-provided results, used only as a reference; local measurements remain separate."
+}

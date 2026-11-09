@@ -1,0 +1,48 @@
+{
+  "format_version": 1,
+  "scope": "Final result data; original run logs are not distributed.",
+  "sources": {
+    "ablation_imdb": {
+      "run": "projected_ablation_imdb_20261108_130446_769932Z"
+    },
+    "ablation_stats": {
+      "run": "projected_ablation_stats_20261108_130502_736177Z"
+    },
+    "matched_depth": {
+      "run": "matched_depth_20261108_125626_817174Z"
+    },
+    "mixed_holdout": {
+      "run": "mixed_holdout_20261108_214822_526172"
+    },
+    "mixed_separation": {
+      "run": "mixed_separation_20261107_192142_475348"
+    },
+    "reuse_monthly": {
+      "run": "stats_cached_reuse_20261108_134303_142564Z"
+    },
+    "reuse_half_month": {
+      "run": "stats_cached_reuse_20261108_134411_585345Z"
+    },
+    "crossing_scale": {
+      "run": "crossing_mixed_scale_20261108_135636_488969Z"
+    },
+    "shape_scale": {
+      "run": "flow_scale_shapes_20261108_130008_162564Z"
+    },
+    "end_to_end": {
+      "run": "stats_shared_execution_20261109_025531_951983Z"
+    },
+    "diamond_refresh": {
+      "run": "diamond_refresh_20261108_134802_446840Z"
+    },
+    "solver_agreement": {
+      "run": "solver_agreement_20261108_220651_835016"
+    },
+    "matched_berge": {
+      "run": "matched_berge_20261108_153954_552797"
+    },
+    "joblight": {
+      "run": "joblight_20261106_204514"
+    }
+  }
+}

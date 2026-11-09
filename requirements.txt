@@ -1,0 +1,17 @@
+# Experiment environment for Python 3.11.18.
+absl-py==2.5.1
+colorama==0.4.6; sys_platform == "win32"
+duckdb==0.10.1
+immutabledict==4.3.1
+joblib==1.5.2
+numpy==1.26.4
+ortools==9.12.4544
+packaging==26.3
+pandas==2.2.3
+protobuf==5.29.6
+psycopg2-binary==2.9.10
+python-dateutil==4.0.0
+pytz==2026.6
+sqlparse==0.5.3
+tqdm==4.67.1
+tzdata==2026.6

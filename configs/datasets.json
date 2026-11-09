@@ -1,0 +1,46 @@
+{
+  "imdb": {
+    "base_url": "https://huggingface.co/datasets/liangyc/job/resolve/main/",
+    "destination": "data/imdb_job",
+    "files": [
+      "data/aka_name.parquet",
+      "data/aka_title.parquet",
+      "data/cast_info.parquet",
+      "data/char_name.parquet",
+      "data/comp_cast_type.parquet",
+      "data/company_name.parquet",
+      "data/company_type.parquet",
+      "data/complete_cast.parquet",
+      "data/info_type.parquet",
+      "data/keyword.parquet",
+      "data/kind_type.parquet",
+      "data/link_type.parquet",
+      "data/movie_companies.parquet",
+      "data/movie_info.parquet",
+      "data/movie_info_idx.parquet",
+      "data/movie_keyword.parquet",
+      "data/movie_link.parquet",
+      "data/name.parquet",
+      "data/person_info.parquet",
+      "data/role_type.parquet",
+      "data/title.parquet",
+      "metadata/job.json",
+      "schema/schema.sql"
+    ]
+  },
+  "stats": {
+    "base_url": "https://raw.githubusercontent.com/Nathaniel-Han/End-to-End-CardEst-Benchmark/master/datasets/stats_simplified/",
+    "destination": "data/stats_ceb/datasets/stats_simplified",
+    "files": [
+      "badges.csv",
+      "comments.csv",
+      "postHistory.csv",
+      "postLinks.csv",
+      "posts.csv",
+      "stats.sql",
+      "tags.csv",
+      "users.csv",
+      "votes.csv"
+    ]
+  }
+}
